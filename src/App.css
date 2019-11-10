@@ -13,6 +13,7 @@ body {
 
 .status {
   margin: 50px;
+  text-align: center;
 }
 
 table, th, td {

@@ -1,22 +1,68 @@
-.App {
+body {
+  font-family: Helvetica, sans-serif;
+}
+
+.title {
+  font-size: 30px;
+  color: #333333;
+  font-weight: 700;
+  margin-bottom: 20px;
   text-align: center;
+  text-transform: uppercase;
 }
 
-.App-logo {
-  height: 40vmin;
+.status {
+  margin: 50px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+table, th, td {
+  border: 2px solid #e0e0e0;
+  border-collapse: collapse;
+  padding: 20px;
+  margin: auto;
+}
+
+.incident {
+  border: 2px solid #e0e0e0;
+  border-radius: 5px;
+  padding: 15px;
+  margin: 50px;
+}
+
+.incident--title {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  border-bottom: 1px solid #e0e0e0;
+  margin: 10px 0;
+  padding-bottom: 10px;
 }
 
-.App-link {
-  color: #09d3ac;
+.incident--link {
+  font-size: 18px;
+  font-weight: 500;
+  color: #e74c3c;
+  text-decoration: unset;
+  margin-right: 10px;
+}
+
+.incident--date {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.incident--containers {
+  margin-top: 10px;
+}
+
+.incident--containers .update {
+  margin: 5px 0;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.incident--containers > .update > small {
+  color: #aaaaaa;
+}
+
+.incident--containers > .update > small > var {
+  font-style: normal;
 }

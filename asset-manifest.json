@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/scraper-app/static/css/main.7152cac8.chunk.css",
-    "main.js": "/scraper-app/static/js/main.cc00e60f.chunk.js",
-    "main.js.map": "/scraper-app/static/js/main.cc00e60f.chunk.js.map",
+    "main.js": "/scraper-app/static/js/main.430dbab2.chunk.js",
+    "main.js.map": "/scraper-app/static/js/main.430dbab2.chunk.js.map",
     "runtime-main.js": "/scraper-app/static/js/runtime-main.628167aa.js",
     "runtime-main.js.map": "/scraper-app/static/js/runtime-main.628167aa.js.map",
-    "static/js/2.1e2c5f9d.chunk.js": "/scraper-app/static/js/2.1e2c5f9d.chunk.js",
-    "static/js/2.1e2c5f9d.chunk.js.map": "/scraper-app/static/js/2.1e2c5f9d.chunk.js.map",
+    "static/js/2.98af8846.chunk.js": "/scraper-app/static/js/2.98af8846.chunk.js",
+    "static/js/2.98af8846.chunk.js.map": "/scraper-app/static/js/2.98af8846.chunk.js.map",
     "index.html": "/scraper-app/index.html",
-    "precache-manifest.318e62887b829d95e1aedae87f6d3845.js": "/scraper-app/precache-manifest.318e62887b829d95e1aedae87f6d3845.js",
+    "precache-manifest.ded65b8a87d35e99826ec2ad51517f36.js": "/scraper-app/precache-manifest.ded65b8a87d35e99826ec2ad51517f36.js",
     "service-worker.js": "/scraper-app/service-worker.js",
     "static/css/main.7152cac8.chunk.css.map": "/scraper-app/static/css/main.7152cac8.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.628167aa.js",
-    "static/js/2.1e2c5f9d.chunk.js",
+    "static/js/2.98af8846.chunk.js",
     "static/css/main.7152cac8.chunk.css",
-    "static/js/main.cc00e60f.chunk.js"
+    "static/js/main.430dbab2.chunk.js"
   ]
 }

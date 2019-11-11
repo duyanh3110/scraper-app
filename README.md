@@ -18,5 +18,5 @@ There are 2 websites to get data. Based on a kind of website: static/ dynamic, I
 3. Add type in `types.js` and create action file( has a function to get data and put to Redux) in `actions` folder.
 4. Create new component at `components` folder and display all the data.
 
-## How much time did you spend with this task
+## How much time did you spend with this task?
 I have done this task after 10 hours.

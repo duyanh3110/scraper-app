@@ -8,6 +8,7 @@ class DataDog extends Component {
   componentDidMount() {
     this.props.setDataDog();
   }
+  
   render() {
     return (
       <div>

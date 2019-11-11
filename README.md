@@ -1,5 +1,5 @@
 
-A React-Redux application that lists different status pages and shows particular values from those pages. Automatic refresh once every 10 minutes. Is is deployed at [Github]([https://duyanh3110.github.io/scraper-app/](https://duyanh3110.github.io/scraper-app/)).
+A React-Redux application that lists different status pages and shows particular values from those pages. Automatic refresh once every 10 minutes. Is is deployed at [Github](https://duyanh3110.github.io/scraper-app/).
 
  
 ## Why did you do what you did?

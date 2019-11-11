@@ -10,7 +10,7 @@ There are 2 websites to get data. Based on a kind of website: static/ dynamic, I
 	- I using `axios` to create a `GET` request to this website to get html.
 	- `cheerio` package is used to get element value of DOM elements.
 2. Dynamic website: https://azure.microsoft.com/en-us/status/
-	- It is impossible to get data from dynamic website without using server. At this situation, I write a [JS script]([https://github.com/duyanh3110/azure-scaper/blob/master/index.js]) and deploy into [Cloud Functions Google Clouds Platform](https://us-central1-azure-data-258522.cloudfunctions.net/function-1). This script has using `puppeteer` to scrape and `cheerio` to get element's value of DOM elements.
+	- It is impossible to get data from dynamic website without using server. At this situation, I write a [JS script](https://github.com/duyanh3110/azure-scaper/blob/master/index.js) and deploy into [Cloud Functions Google Clouds Platform](https://us-central1-azure-data-258522.cloudfunctions.net/function-1). This script has using `puppeteer` to scrape and `cheerio` to get element's value of DOM elements.
 
 ## When someone wants to add a new status page, how would the be done?
 1. They should discover the website they want to scrape data. After knowing kind of this website, they can choose the way to scrape data that has been written above.
